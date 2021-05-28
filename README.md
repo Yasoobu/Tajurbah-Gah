@@ -1,5 +1,4 @@
 # Tajurbah-Gah
-Game Development Project.
 This is a 3D physics practical simulation developed in Unity.
 It simulates the very well known practical of finding the density of an object heavier than water using the Archimedes Principle.
 
