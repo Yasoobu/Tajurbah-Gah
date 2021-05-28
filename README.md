@@ -1,10 +1,9 @@
 # Tajurbah-Gah
 Game Development Project.
-
-To run this project, you need the latest version of Unity which is available for free on Unity's official website. Open this project in Unity and click run.
-
 This is a 3D physics practical simulation developed in Unity.
 It simulates the very well known practical of finding the density of an object heavier than water using the Archimedes Principle.
+
+To run this project, you need the latest version of Unity which is available for free on Unity's official website. Open this project in Unity and click run.
 
 On launching, the user is welcomed with a screen that is a guide on how to perform the experiment. It has 3 tabs which the user can naviagte through and read the concepts used in the experiment and the information required to perform the experiment correctly. The user can then click the start button to open the screen where the actual experiment will be performed.
 On starting, the user is displayed a 3d room with a table placed in the centre and a joystick at the corner of the screen to rotate the camera to have better viewing angles.
