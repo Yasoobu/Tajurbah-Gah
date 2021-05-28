@@ -1,5 +1,6 @@
 # Tajurbah-Gah
-Game Development Project
+Game Development Project.
+
 To run this project, you need the latest version of Unity which is available for free on Unity's official website. Open this project in Unity and click run.
 
 This is a 3D physics practical simulation developed in Unity.
