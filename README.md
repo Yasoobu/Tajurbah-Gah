@@ -15,3 +15,5 @@ Upon the successful completion of the experiment, the user can click the button 
 
 The app exits after the user has answered all questions and chooses the "Finish" option on the last screen.
 
+Please find the attached screenshots in the folder "Screenshots" to have a better understanding of the application.
+
